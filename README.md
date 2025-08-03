@@ -76,7 +76,7 @@ pip        25.2
 setuptools 58.0.4
 ```
 
-### install `fastapi` package from your `myenv`
+### Install `fastapi` package from your `myenv`
 ```
 $ pip3 install fastapi
 ```
