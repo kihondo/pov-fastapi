@@ -38,7 +38,7 @@ drwxr-xr-x@  3 sai  staff   96  3 Aug 21:37 lib
 ```
 
 ### Activate the virtual environment
-* You'll see (myenv) at the beginning of your terminal prompt which is indicating the environment is active.
+* You'll see `(myenv)` at the beginning of your terminal prompt which is indicating the environment is active.
 ```
 $ source myenv/bin/activate
 (myenv)
@@ -53,7 +53,7 @@ setuptools 58.0.4
 WARNING: You are using pip version 21.2.4; however, version 25.2 is available.
 You should consider upgrading via the '/Users/sai/pov-fastapi/0-get-started/myenv/bin/python3 -m pip install --upgrade pip' command.
 ```
-* Upgrade your `pip` for your `myenv` as below 
+* Upgrade your `pip` for your `myenv` as below:
 ```
 $ pip install --upgrade pip
 Requirement already satisfied: pip in ./myenv/lib/python3.9/site-packages (21.2.4)
@@ -111,7 +111,7 @@ pov-fastapi/
         └── main.py     # your main.py is here
 
 ```
-* ### install `uvicorn` package from your `myenv`
+* ### Install `uvicorn` package from your `myenv`
 ```
 pip3 install uvicorn
 ```
