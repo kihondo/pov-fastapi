@@ -214,5 +214,10 @@ pov-fastapi/
     └── requirements.txt
 ```
 
+### To deativate your python virtual environment
+```
+$ deactivate
+```
+
 ### Congratulations !!!
 * You now have a working FastAPI Hello World application.
